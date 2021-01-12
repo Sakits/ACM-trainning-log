@@ -14,7 +14,7 @@
 &emsp;&emsp;Solved by wennitao
 
 ## G - Liaoning Ship’s Voyage 
-&emsp;&emsp;是个不算难的计算几何，但是完全不会计算几何所以就不补了
+&emsp;&emsp;是个不算难的计算几何，但是完全不会计算几何所以就不补了 
 
 ## H - Puzzle Game 
 &emsp;&emsp;先预处理出最大权子矩阵，权值和设为 $ans1$
