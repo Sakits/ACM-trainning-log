@@ -40,6 +40,9 @@
 &emsp;&emsp;计算几何不会，交给队友了。
 
 ## Problem I. Interactive Knockout
+&emsp;&emsp;关键是要知道，如果设整个图有 $s$ 个位置，随机走几乎可以保证会在 $\frac{s}{3}$ 轮把自己走死，所以只要占领 $\frac{s}{3}$ 的位置就行了。
+
+&emsp;&emsp;可以选择占左上角的平行四边形或者左下角的平行四边形。先走到 $(0, 0)$，如果此时对方在上半部分，那就占左下角的平行四边形，反之占左上角的。
 
 ## Problem K. Kate’s 2021 Celebration
 &emsp;&emsp;签到题。
