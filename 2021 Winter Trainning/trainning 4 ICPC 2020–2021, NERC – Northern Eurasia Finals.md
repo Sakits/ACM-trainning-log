@@ -1,3 +1,4 @@
+比赛链接：https://vjudge.net/contest/417318
 ## Problem A. Almost Balanced Tree
 &emsp;&emsp;考虑递归解决这个问题。
 
