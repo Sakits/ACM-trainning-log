@@ -1,3 +1,4 @@
+比赛链接：https://vjudge.net/contest/417523
 ## A - Fast Forwarding
 &emsp;&emsp;考虑先一堆 3x 到最大的速度，中间一段持续最大的速度，然后再一堆 1/3x，1/3x 那段把剩下的部分填完就好了。
 
